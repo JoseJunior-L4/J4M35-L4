@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Manuel
 - 👀 I’m interested in Web, Android, Software and Game Development.
-- 🌱 I’m currently learning Flutter and Laravel
+- 🌱 I’m currently learning Flutter and NodeJS
 - 💞️ I’m looking to collaborate on any interresting projects
 - 📫 How to reach me : josemanuelsimangojunior@gmail.com
 
